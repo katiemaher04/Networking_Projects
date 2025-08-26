@@ -1,0 +1,8 @@
+While converting this program I came across issues such as the program not accepting valid inputs, text not printing correctly, recognising invalid inputs but still using them in the sum, buffer overflow and more.
+One slight issue that does not affect the functionality of the program is that a newline has to be entered to proceed to the next input, e.g. enter has to be pressed twice. This is because I added support for newline characters at the end of the 10 byte limit to solve a different issue, and any attempt to fix it has just broken something else.
+The reason for minimal commits is just that I simply forgot, I kept working on the project until it was finished and then remembered to upload my project link.
+Some of the resources used:
+https://web.stanford.edu/class/cs107/guide/x86-64.html
+https://stackoverflow.com/questions/48564820/nasm-validating-input
+www.asmtutor.com
+
